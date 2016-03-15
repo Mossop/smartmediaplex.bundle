@@ -1,0 +1,8 @@
+[
+  {
+    "id": "url",
+    "label": "Smart Media Server",
+    "type": "text",
+    "default": "http://localhost:8000/",
+  },
+]
